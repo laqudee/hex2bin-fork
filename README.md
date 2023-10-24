@@ -2,12 +2,6 @@
 
 > fork from [hex2bin](https://github.com/Guozhanxin/hex2bin)
 
-## Run
-
-```shell
-=> zig run ../../examples/rtthread.hex
-```
-
 ## build
 
 ```shell
